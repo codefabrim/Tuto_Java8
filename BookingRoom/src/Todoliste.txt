@@ -1,0 +1,36 @@
+// TODO system of cancellation of booking;
+// TODO system of cancellation of booking, then propagate at a waitlit for this room that this room is promtly become
+available ;
+//TODO WaitList after an suboptimal  choice of  room
+//TODO offer the possibilitiy to make a registration to a waitinmglis for optimal Room
+//TODO Cancelatipon Module
+
+TODO decide  wich criteria at the priority on a waiting list
+
+
+TODO  module of monitoring of occupation rooms
+TODO module of business  report of statisitcs of occupsation of rooms dans le but de afficher le s salle occuppe
+
+
+TODO  module of accreditation of a Client (authentification modulle, authorization module :)
+TODO possibility to change the name of Client into what is relevant (Menber, Officer, ..)for the administrator of this App
+TODO  portaage de la solution online sure  un cloud
+TODO View with Ember.js in order to allows that to ...all well known bwnwfits
+TODO View with slider to precise the duration of the room  and code color such as Green,
+
+
+TODO remainder module with email at the client(sceduler with predefined amount of duration before)
+TODO the notion of participant as a Person ???
+
+TODO share the room and adress to a list  of participant  with email
+
+TODO import list of participants
+
+TODO share on whatapps, FB the RoomEvent
+
+TODO modification on the way with :
+    -configure the bookingSystem with Name relevant for the User: javascript modification of key word in the page
+    -configure  where all words will  be masked with this new word in this application
+
+
+

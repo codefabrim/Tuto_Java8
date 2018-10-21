@@ -1,0 +1,12 @@
+println "Hello aus der Konfigurationsphase"
+
+task halloTask
+
+halloTask.doLast { print "aus der "}
+
+halloTask << {
+    println " Ausfuhrungsphase "
+}
+
+
+halloTask.doFirst { print "Hallo "}

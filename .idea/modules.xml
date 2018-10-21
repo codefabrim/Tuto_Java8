@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BookingRoom/BookingRoom.iml" filepath="$PROJECT_DIR$/BookingRoom/BookingRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateTimnePerioidDuration/DateTimnePerioidDuration.iml" filepath="$PROJECT_DIR$/DateTimnePerioidDuration/DateTimnePerioidDuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LesBrebis/LesBrebis.iml" filepath="$PROJECT_DIR$/LesBrebis/LesBrebis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tuto_Java8.iml" filepath="$PROJECT_DIR$/Tuto_Java8.iml" />
+    </modules>
+  </component>
+</project>

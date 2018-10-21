@@ -1,0 +1,22 @@
+task compile
+
+compile << {
+    println "Aufruf des Compile-Tasks"
+}
+
+task compileTest(dependsOn: compile)
+
+task test
+test.dependsOn compileTest, compile
+
+
+task assemble {  // initialisierung closure
+    dependsOn compile
+}
+
+task build(dependsOn: [test, assemble]) << {
+    println "Aufruf des Tasks build"
+}
+
+
+

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javalibrary-demo-gradle">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../javalibrary-demo-gradle/build/libs/javalibrary-demo-gradle.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
